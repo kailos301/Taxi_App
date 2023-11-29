@@ -1,0 +1,32 @@
+Project Console: https://console.firebase.google.com/project/toktok-ace4d/overview
+Hosting URL: https://toktok-ace4d.web.app
+
+
+
+export const MainConfig = {
+    AppDetails: {
+        app_name: "Tuk Tuk", 
+        app_description: "This is the South Africa taxi componay app.",
+        app_identifier: "com.tuktuk.app",
+        ios_app_version: "1.0.0", 
+        android_app_version: 100
+    },
+    FirebaseConfig: {
+        apiKey: "AIzaSyCmZUEsRGHS3RGkA7hcDdcBlz2JCkAT_I4",
+        authDomain: "toktok-ace4d.firebaseapp.com",
+        databaseURL: "https://toktok-ace4d-default-rtdb.firebaseio.com",
+        projectId: "toktok-ace4d",
+        storageBucket: "toktok-ace4d.appspot.com",
+        messagingSenderId: "94587398532",
+        appId: "1:94587398532:web:4385fc9d7e0022358fd5d1",
+        measurementId: "G-EMRX2XNC8R"
+    },
+    Google_Map_Key: "AIzaSyAQILxG6_lFBLc26bdg47ip-NxAcICkMkQ",
+    facebookAppId: "248649220319434",
+    PurchaseDetails: {
+        CodeCanyon_Purchase_Code: "d6d2c306-3513-40f5-977c-507c68a5c6dc",
+        Buyer_Email_Address: "redflairmultimedia@gmail.com"
+    }
+}
+password:
+		simulation123#
